@@ -12,4 +12,4 @@
 |Day 6|Feb 13, 2021| Learning about Promises | [Luiz Tools](https://www.luiztools.com.br/post/programacao-assincrona-em-nodejs-callbacks-e-promises)|
 |Day 7|Feb 14, 2021| Learning Async/Await | [Erick Wendel Course](https://erickwendel.teachable.com/courses/enrolled/448292)|
 |Day 8|Feb 15, 2021| Learning about EventEmitter | [Erick Wendel Course](https://erickwendel.teachable.com/courses/enrolled/448292)|
-|Day 9|Feb 16, 2021| Learning lists (for/ForInForOf) and the node Package axios | [Erick Wendel Course](https://erickwendel.teachable.com/courses/enrolled/448292)|
+|Day 9|Feb 16, 2021| Learning lists (for/ForInForOf) and the Node Package axios | [Erick Wendel Course](https://erickwendel.teachable.com/courses/enrolled/448292)|
