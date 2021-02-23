@@ -14,3 +14,4 @@
 |Day 8|Feb 15, 2021| Learning about EventEmitter | [Erick Wendel Course](https://erickwendel.teachable.com/courses/enrolled/448292)|
 |Day 9|Feb 16, 2021| Learning lists (for/ForIn/ForOf) and the Node Package axios | [Erick Wendel Course](https://erickwendel.teachable.com/courses/enrolled/448292)|
 |Day 10|Feb 17, 2021| Learning more about Array.map & the difference about forEach and array.map | [Erick Wendel Course](https://erickwendel.teachable.com/courses/enrolled/448292)|
+|Day 11|Feb 18, 2021| Learning more about Array.filter | [Erick Wendel Course](https://erickwendel.teachable.com/courses/enrolled/448292)|
