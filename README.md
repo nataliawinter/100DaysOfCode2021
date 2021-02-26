@@ -17,5 +17,5 @@
 |Day 11|Feb 18, 2021| Learning more about Array.filter | [Erick Wendel Course](https://erickwendel.teachable.com/courses/enrolled/448292)|
 |Day 12|Feb 23, 2021| Learning AGAIN Array.filter | [Erick Wendel Course](https://erickwendel.teachable.com/courses/enrolled/448292)|
 |Day 13|Feb 24, 2021| Learning functions and arrow function Node.js| |
-|Day 14|Feb 25, 2021| (10 days of Javascript) Chalenge: Switch | [HackerRank](https://www.hackerrank.com) |
+|Day 14|Feb 25, 2021| (10 days of Javascript) Challenge: Switch | [HackerRank](https://www.hackerrank.com) |
 
