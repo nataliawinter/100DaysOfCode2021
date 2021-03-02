@@ -1,5 +1,7 @@
 # My #100DaysOfCode Journey
 
+p.s: Sometimes I don't consider weekends, and it's okay 
+
 ## Timeline
 
 |**Day:pushpin:**|**Date &nbsp;:calendar:**|**Lessons/Tasks Done :alarm_clock:**| **Reference Links :link:**|
