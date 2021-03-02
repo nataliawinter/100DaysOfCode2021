@@ -19,4 +19,6 @@
 |Day 13|Feb 24, 2021| Learning functions and arrow function Node.js| |
 |Day 14|Feb 25, 2021| (10 days of Javascript) Challenge: Switch | [HackerRank](https://www.hackerrank.com) |
 |Day 15|Feb 26, 2021| Learning more concepts about API's, Rest and Restful | [Leonardo Americo](https://github.com/americoleonardo) |
+|Day 16|Mar 01, 2021| Learning about Framework Mocha and Mocking tests with Nock | [Erick Wendel Course](https://erickwendel.teachable.com/courses/enrolled/448292)|
+
 
