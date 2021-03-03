@@ -22,5 +22,6 @@ p.s: Sometimes I don't consider weekends, and it's okay
 |Day 14|Feb 25, 2021| (10 days of Javascript) Challenge: Switch | [HackerRank](https://www.hackerrank.com) |
 |Day 15|Feb 26, 2021| Learning more concepts about API's, Rest and Restful | [Leonardo Americo](https://github.com/americoleonardo) |
 |Day 16|Mar 01, 2021| Learning about Framework Mocha and Mocking tests with Nock | [Erick Wendel Course](https://erickwendel.teachable.com/courses/enrolled/448292)|
+|Day 17|Mar 02, 2021| Starting a new project on github for practice tests and crud on Node | :woman_technologist: |
 
 
