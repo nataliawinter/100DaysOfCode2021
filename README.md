@@ -23,5 +23,7 @@ p.s: Sometimes I don't consider weekends, and it's okay
 |Day 15|Feb 26, 2021| Learning more concepts about API's, Rest and Restful | [Leonardo Americo](https://github.com/americoleonardo) |
 |Day 16|Mar 01, 2021| Learning about Framework Mocha and Mocking tests with Nock | [Erick Wendel Course](https://erickwendel.teachable.com/courses/enrolled/448292)|
 |Day 17|Mar 02, 2021| Starting a new project on github for practice tests and crud on Node | [Project](https://github.com/nataliawinter/crud-with-tests) |
+|Day 18|Mar 03, 2021| Revise the Pattern DDD | :woman_technologist: |
+|Day 19|Mar 04, 2021| Study create command line tools | [Erick Wendel Course](https://erickwendel.teachable.com/courses/enrolled/448292) |
 
 
