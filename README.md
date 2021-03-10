@@ -26,5 +26,6 @@ p.s: Sometimes I don't consider weekends, and it's okay
 |Day 18|Mar 03, 2021| Revise the Pattern DDD | :woman_technologist: |
 |Day 19|Mar 04, 2021| Study create command line tools | [Erick Wendel Course](https://erickwendel.teachable.com/courses/enrolled/448292) |
 |Day 20|Mar 08, 2021| Study strategy in Node.js (Design Patterns) | [Erick Wendel Course](https://erickwendel.teachable.com/courses/enrolled/448292) |
+|Day 21|Mar 09, 2021| Learning about the SOLID principles | [PodProgramar](https://podprogramar.com.br/podprogramar-36-principios-solid/) |
 
 
