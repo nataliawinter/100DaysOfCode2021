@@ -29,5 +29,6 @@ p.s: Sometimes I don't consider weekends, and it's okay
 |Day 21|Mar 09, 2021| Learning about the SOLID principles | [PodProgramar](https://podprogramar.com.br/podprogramar-36-principios-solid/) |
 |Day 22|Mar 10, 2021| Learning the Sequelize (nodejs) | [Erick Wendel Course](https://erickwendel.teachable.com/courses/enrolled/448292) |
 |Day 23|Mar 11, 2021| Continue the personal project, configurate the database and add docker-compose (nodejs) | [Project](https://github.com/nataliawinter/crud-with-tests)  |
+|Day 24|Mar 12, 2021| Gulp and how it works | :woman_technologist: |
 
 
