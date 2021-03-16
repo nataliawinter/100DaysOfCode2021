@@ -30,5 +30,6 @@ p.s: Sometimes I don't consider weekends, and it's okay
 |Day 22|Mar 10, 2021| Learning the Sequelize (nodejs) | [Erick Wendel Course](https://erickwendel.teachable.com/courses/enrolled/448292) |
 |Day 23|Mar 11, 2021| Continue the personal project, configurate the database and add docker-compose (nodejs) | [Project](https://github.com/nataliawinter/crud-with-tests)  |
 |Day 24|Mar 12, 2021| Gulp and how it works | :woman_technologist: |
+|Day 25|Mar 15, 2021| Starting a project with express, nodemon and axios | :woman_technologist: |
 
 
