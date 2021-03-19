@@ -33,5 +33,6 @@ p.s: Sometimes I don't consider weekends, and it's okay
 |Day 25|Mar 15, 2021| Starting a project with express, nodemon and axios | :woman_technologist: |
 |Day 26|Mar 16, 2021| Made a Challenge on Hackerhank (count objects and inheritance)|[HackerRank](https://www.hackerrank.com) |
 |Day 27|Mar 17, 2021| Made a Challenge on Hackerhank (create a button & create a retangle object)| [HackerRank](https://www.hackerrank.com) |
+|Day 28|Mar 18, 2021| Made a Challenge on Hackerhank (classes)| [HackerRank](https://www.hackerrank.com) |
 
 
