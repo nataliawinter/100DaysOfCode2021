@@ -34,5 +34,8 @@ p.s: Sometimes I don't consider weekends, and it's okay
 |Day 26|Mar 16, 2021| Made a Challenge on Hackerhank (count objects and inheritance)|[HackerRank](https://www.hackerrank.com) |
 |Day 27|Mar 17, 2021| Made a Challenge on Hackerhank (create a button & create a retangle object)| [HackerRank](https://www.hackerrank.com) |
 |Day 28|Mar 18, 2021| Made a Challenge on Hackerhank (classes)| [HackerRank](https://www.hackerrank.com) |
+|Day 29|Mar 19, 2021| Made a Challenge on Hackerhank (template literals)| [HackerRank](https://www.hackerrank.com) |
+|Day 30|Mar 20, 2021| Study the difference about npm and yarn | :woman_technologist: |
+|Day 31|Mar 21, 2021| Study challenge (Hotel reservation) | [HackerRank](https://www.hackerrank.com) |
 
 
