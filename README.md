@@ -36,6 +36,8 @@ p.s: Sometimes I don't consider weekends, and it's okay
 |Day 28|Mar 18, 2021| Made a Challenge on Hackerhank (classes)| [HackerRank](https://www.hackerrank.com) |
 |Day 29|Mar 19, 2021| Made a Challenge on Hackerhank (template literals)| [HackerRank](https://www.hackerrank.com) |
 |Day 30|Mar 20, 2021| Study the difference about npm and yarn | :woman_technologist: |
-|Day 31|Mar 21, 2021| Earned the bronze badge SQL (made 8 challenges) | [HackerRank](https://www.hackerrank.com) |
+|Day 31|Mar 21, 2021| Study challenge hotel (Thoughtworks) | :woman_technologist: |
+|Day 32|Mar 22, 2021| Earned the bronze badge SQL (made 8 challenges) | [HackerRank](https://www.hackerrank.com) |
+|Day 33|Mar 23, 2021| Complete the challenge Hotel (Thoughtworks) | :woman_technologist: |
 
 
