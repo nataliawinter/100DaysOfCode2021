@@ -39,5 +39,8 @@ p.s: Sometimes I don't consider weekends, and it's okay
 |Day 31|Mar 21, 2021| Study challenge hotel (Thoughtworks) | :woman_technologist: |
 |Day 32|Mar 22, 2021| Earned the bronze badge SQL (made 8 challenges) | [HackerRank](https://www.hackerrank.com) |
 |Day 33|Mar 23, 2021| Complete the challenge Hotel (Thoughtworks) | :woman_technologist: |
+|Day 34|Mar 24, 2021| Day off | :yawning_face: |
+|Day 35|Mar 25, 2021| Training English conversation | :sunglasses: |
+
 
 
