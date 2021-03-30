@@ -41,6 +41,7 @@ p.s: Sometimes I don't consider weekends, and it's okay
 |Day 33|Mar 23, 2021| Complete the challenge Hotel (Thoughtworks) | :woman_technologist: |
 |Day 34|Mar 24, 2021| Day off | :yawning_face: |
 |Day 35|Mar 25, 2021| Training English conversation | :sunglasses: |
+|Day 36|Mar 29, 2021| Made challenge Arrow Functions on Hackerhank | [HackerRank](https://www.hackerrank.com)  |
 
 
 
