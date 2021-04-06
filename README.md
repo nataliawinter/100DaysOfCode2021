@@ -42,6 +42,4 @@ p.s: Sometimes I don't consider weekends, and it's okay
 |Day 34|Mar 24, 2021| Day off | :yawning_face: |
 |Day 35|Mar 25, 2021| Training English conversation | :sunglasses: |
 |Day 36|Mar 29, 2021| Made challenge Arrow Functions on Hackerhank | [HackerRank](https://www.hackerrank.com)  |
-
-
-
+|Day 37|Apr 05, 2021| Change the test Chai to Jest and adjust all project | [Personal project](https://github.com/nataliawinter/js-test-project) |
