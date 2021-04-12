@@ -46,3 +46,4 @@ p.s: Sometimes I don't consider weekends, and it's okay
 |Day 38|Apr 06, 2021| Helping my friend to develop a challenge for a interview (PHP)  | :woman_teacher: |
 |Day 39|Apr 07, 2021| Day off | :cat: |
 |Day 40|Apr 08, 2021| Day off | :cat: |
+|Day 41|Apr 09, 2021| Installing Eslint and testing | [Personal project](https://github.com/nataliawinter/js-test-project) |
