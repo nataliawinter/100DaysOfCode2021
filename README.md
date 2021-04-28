@@ -48,3 +48,5 @@ p.s: Sometimes I don't consider weekends, and it's okay
 |Day 40|Apr 08, 2021| Day off | :cat: |
 |Day 41|Apr 09, 2021| Installing Eslint and testing | [Personal project](https://github.com/nataliawinter/js-test-project) |
 |Day 42|Apr 26, 2021| Installing IntelliJ and initialize Java studies (new course about Agile and TDD) | 👩‍💻 |
+|Day 43|Apr 27, 2021| Developing a CRUD Users with Java (course about Agile and TDD) | 👩‍💻 |
+|Day 44|Apr 28, 2021| Learning how develop a tests with JUnit (course about Agile and TDD) | 👩‍💻 |
