@@ -50,3 +50,4 @@ p.s: Sometimes I don't consider weekends, and it's okay
 |Day 42|Apr 26, 2021| Installing IntelliJ and initialize Java studies (new course about Agile and TDD) | 👩‍💻 |
 |Day 43|Apr 27, 2021| Developing a CRUD Users with Java (course about Agile and TDD) | 👩‍💻 |
 |Day 44|Apr 28, 2021| Learning how develop a tests with JUnit (course about Agile and TDD) | 👩‍💻 |
+|Day 45|Apr 29, 2021| Deploy my app on Heroku (course about Agile and TDD) | 👩‍💻 |
