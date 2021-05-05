@@ -53,3 +53,4 @@ p.s: Sometimes I don't consider weekends, and it's okay
 |Day 45|Apr 29, 2021| Deploy my application on Heroku (course about Agile and TDD) | 👩‍💻 |
 |Day 46|May 02, 2021| Discover Token Api on Heroku, Deploy finally Works! (course about Agile and TDD) | 👩‍💻 |
 |Day 47|May 03, 2021| Javascript - Interfaces and Heritage [oop] ! (course Javascript) | 👩‍💻 |
+|Day 48|May 03, 2021| React -  Learning components (course How the lib works) | 👩‍💻 |
