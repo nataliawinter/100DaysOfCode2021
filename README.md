@@ -56,4 +56,5 @@ p.s: Sometimes I don't consider weekends, and it's okay
 |Day 48|May 04, 2021| React - Learning components (course How the lib works) | 👩‍💻 |
 |Day 49|May 05, 2021| React - Component Life Cycle (Course about React) | 👩‍💻 |
 |Day 50|May 06, 2021| React - Implementing a new component (add form) (Course about React) | 👩‍💻 |
-|Day 49|May 07, 2021| React - Learning about states and Cycle (Course about React) | 👩‍💻 |
+|Day 51|May 07, 2021| React - Learning about states and Cycle (Course about React) | 👩‍💻 |
+|Day 52|May 10, 2021| React - Learning Material UI and your usage | 👩‍💻 |
