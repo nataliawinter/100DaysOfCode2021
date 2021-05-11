@@ -58,3 +58,4 @@ p.s: Sometimes I don't consider weekends, and it's okay
 |Day 50|May 06, 2021| React - Implementing a new component (add form) (Course about React) | 👩‍💻 |
 |Day 51|May 07, 2021| React - Learning about states and Cycle (Course about React) | 👩‍💻 |
 |Day 52|May 10, 2021| React - Learning Material UI and your usage | 👩‍💻 |
+|Day 53|May 11, 2021| React - Learning function components | 👩‍💻 |
