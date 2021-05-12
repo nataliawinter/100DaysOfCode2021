@@ -59,3 +59,4 @@ p.s: Sometimes I don't consider weekends, and it's okay
 |Day 51|May 07, 2021| React - Learning about states and Cycle (Course about React) | 👩‍💻 |
 |Day 52|May 10, 2021| React - Learning Material UI and your usage | 👩‍💻 |
 |Day 53|May 11, 2021| React - Learning function components | 👩‍💻 |
+|Day 54|May 12, 2021| React - Learning insert validations in my forms | 👩‍💻 |
