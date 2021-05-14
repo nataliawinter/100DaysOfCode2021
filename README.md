@@ -61,3 +61,4 @@ p.s: Sometimes I don't consider weekends, and it's okay
 |Day 53|May 11, 2021| React - Learning function components | 👩‍💻 |
 |Day 54|May 12, 2021| React - Learning insert validations in my forms | 👩‍💻 |
 |Day 55|May 13, 2021| React - Learning about tests (`testing-library`)| 👩‍💻 |
+|Day 56|May 14, 2021| React - Implement my own tests (`testing-library`)| 👩‍💻 |
