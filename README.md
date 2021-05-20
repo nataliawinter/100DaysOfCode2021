@@ -63,3 +63,5 @@ p.s: Sometimes I don't consider weekends, and it's okay
 |Day 55|May 13, 2021| React - Learning about tests (`testing-library`)| 👩‍💻 |
 |Day 56|May 14, 2021| React - Implement my own tests (`testing-library`)| 👩‍💻 |
 |Day 57|May 17, 2021| Java - Starting a course about Spring Boot (`API Rest`)| 👩‍💻 |
+|Day 58|May 18, 2021| Java -  Learning how works REST on JAVA Projects (`API Rest`)| 👩‍💻 |
+|Day 59|May 19, 2021| Java - Learning how to cache application and learning about DTO's (`API Rest`)| 👩‍💻 |
