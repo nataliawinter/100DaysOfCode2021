@@ -65,3 +65,5 @@ p.s: Sometimes I don't consider weekends, and it's okay
 |Day 57|May 17, 2021| Java - Starting a course about Spring Boot (`API Rest`)| 👩‍💻 |
 |Day 58|May 18, 2021| Java -  Learning how works REST on JAVA Projects (`API Rest`)| 👩‍💻 |
 |Day 59|May 19, 2021| Java - Learning how to cache application and learning about DTO's (`API Rest`)| 👩‍💻 |
+|Day 60|May 20, 2021| Java - Learning about auth by token, JWT (`API Rest`)| 👩‍💻 |
+|Day 61|May 21, 2021| Java - Deploying/Publish application on Heroku | 👩‍💻 |
