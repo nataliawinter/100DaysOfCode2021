@@ -67,3 +67,4 @@ p.s: Sometimes I don't consider weekends, and it's okay
 |Day 59|May 19, 2021| Java - Learning how to cache application and learning about DTO's (`API Rest`)| 👩‍💻 |
 |Day 60|May 20, 2021| Java - Learning about auth by token, JWT (`API Rest`)| 👩‍💻 |
 |Day 61|May 21, 2021| Java - Deploying/Publish application on Heroku | 👩‍💻 |
+|Day 62|May 26, 2021| GitLab - Starts study about | 👩‍💻 |
