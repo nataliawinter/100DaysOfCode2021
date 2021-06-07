@@ -68,3 +68,4 @@ p.s: Sometimes I don't consider weekends, and it's okay
 |Day 60|May 20, 2021| Java - Learning about auth by token, JWT (`API Rest`)| 👩‍💻 |
 |Day 61|May 21, 2021| Java - Deploying/Publish application on Heroku | 👩‍💻 |
 |Day 62|May 26, 2021| GitLab - Starts study about | 👩‍💻 |
+|Day 63|Jun 07, 2021| GitLab - Study about CI/CD | 👩‍💻 |
