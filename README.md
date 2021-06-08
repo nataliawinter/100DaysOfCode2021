@@ -67,5 +67,11 @@ p.s: Sometimes I don't consider weekends, and it's okay
 |Day 59|May 19, 2021| Java - Learning how to cache application and learning about DTO's (`API Rest`)| 👩‍💻 |
 |Day 60|May 20, 2021| Java - Learning about auth by token, JWT (`API Rest`)| 👩‍💻 |
 |Day 61|May 21, 2021| Java - Deploying/Publish application on Heroku | 👩‍💻 |
-|Day 62|May 26, 2021| GitLab - Starts study about | 👩‍💻 |
-|Day 63|Jun 07, 2021| GitLab - Study about CI/CD | 👩‍💻 |
+|Day 63|May 26, 2021| GitLab - Starts studies. | 👩‍💻 |
+|Day 64|May 27, 2021| GitLab - Understanding what it is! | 👩‍💻 |
+|Day 65|May 31, 2021| GitLab - The history! | 👩‍💻 |
+|Day 66|Jun 01, 2021| GitLab - Difference between Concurrent and Sequential DevOps | 👩‍💻 |
+|Day 67|Jun 02, 2021| GitLab - Your components | 👩‍💻 |
+|Day 68|Jun 03, 2021| GitLab - The Git Basics | 👩‍💻 |
+|Day 69|Jun 04, 2021| GitLab - CI/CD Functions| 👩‍💻 |
+|Day 70|Jun 07, 2021| GitLab - Study about CI/CD | 👩‍💻 |
