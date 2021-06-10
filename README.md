@@ -77,3 +77,4 @@ p.s: Sometimes I don't consider weekends, and it's okay
 |Day 70|Jun 07, 2021| GitLab - Study about CI/CD | 👩‍💻 |
 |Day 71|Jun 08, 2021| GitLab - GitLab’s Package and Release Functions | 👩‍💻 |
 |Day 72|Jun 09, 2021| GitLab - Review Apps | 👩‍💻 |
+|Day 73|Jun 10, 2021| GitLab - GitLab Security Scanning | 👩‍💻 |
