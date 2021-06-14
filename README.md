@@ -79,3 +79,4 @@ p.s: Sometimes I don't consider weekends, and it's okay
 |Day 72|Jun 09, 2021| GitLab - Review Apps | 👩‍💻 |
 |Day 73|Jun 10, 2021| GitLab - GitLab Security Scanning | 👩‍💻 |
 |Day 74|Jun 11, 2021| GitLab - GitLab Runner | 👩‍💻 |
+|Day 75|Jun 12, 2021| GitLab - Exam Certification! | 👩‍💻 |
