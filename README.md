@@ -81,4 +81,5 @@ p.s: Sometimes I don't consider weekends, and it's okay
 |Day 74|Jun 11, 2021| GitLab - GitLab Runner | 👩‍💻 |
 |Day 75|Jun 12, 2021| GitLab - Exam Certification! (Earn the Badge 🖤) [badge 🎖️](https://badgr.com/public/assertions/Ubq4yKWPQTmYkRWvc9lIkg) | 👩‍💻 |
 |Day 76|Jun 14, 2021| EC2 - Start study! Create an instance on Aws | [Alura Course - EC2](https://cursos.alura.com.br/course/amazon-ec2-disponibilidade-escalabilidade) |
+|Day 77|Jun 15, 2021| GitLab - Started a blog with Jekyll to apply my knowledge | 👩‍💻 |
 
