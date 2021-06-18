@@ -84,3 +84,4 @@ p.s: Sometimes I don't consider weekends, and it's okay
 |Day 77|Jun 15, 2021| GitLab - Started a blog with Jekyll to apply my knowledge | 👩‍💻 |
 |Day 78|Jun 16, 2021| EC2 - Create and terminate Instances, understandig what is AMIs! | [Alura Course - EC2](https://cursos.alura.com.br/course/amazon-ec2-disponibilidade-escalabilidade) |
 |Day 79|Jun 17, 2021| EC2 - Add two instances in the same Security Group! | [Alura Course - EC2](https://cursos.alura.com.br/course/amazon-ec2-disponibilidade-escalabilidade) |
+|Day 80|Jun 18, 2021| Gitlab - Start my Jekyll blog to zero! | [Course Willian Justen - Jekyll](https://www.udemy.com/course/draft/1243098/) |
