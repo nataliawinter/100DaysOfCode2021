@@ -89,3 +89,4 @@ p.s: Sometimes I don't consider weekends, and it's okay
 |Day 82|Jun 22, 2021| EC2 - Learning about Elastic Ips and VPCs ! | [Alura Course - EC2](https://cursos.alura.com.br/course/amazon-ec2-disponibilidade-escalabilidade)|
 |Day 83|Jun 23, 2021| EC2 - Learning about RDS, scalling my instances and creating images based on instances| [Alura Course - EC2](https://cursos.alura.com.br/course/amazon-ec2-disponibilidade-escalabilidade)|
 |Day 84|Jun 24, 2021| EC2 - Learning about EBS and creating an target group| [Alura Course - EC2](https://cursos.alura.com.br/course/amazon-ec2-disponibilidade-escalabilidade)|
+|Day 85|Jun 25, 2021| EC2 - Learning about AWS CLI and terminate de course| [Alura Course - EC2](https://cursos.alura.com.br/course/amazon-ec2-disponibilidade-escalabilidade)|
