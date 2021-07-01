@@ -92,3 +92,6 @@ p.s: Sometimes I don't consider weekends, and it's okay
 |Day 85|Jun 25, 2021| EC2 - Learning about AWS CLI and terminate de course| [Alura Course - EC2](https://cursos.alura.com.br/course/amazon-ec2-disponibilidade-escalabilidade)|
 |Day 86|Jun 28, 2021| Gitlab - Try to deploy my blog on Pages| 👩‍ 💻|
 |Day 87|Jun 29, 2021| Gitlab - Making the pipeline work correctly | 👩‍ 💻|
+|Day 88|Jun 30, 2021| Gitlab - Tried ajust the style of my blog (and I failed miserably) | 👩‍ 💻|
+|Day 89|Jul 01, 2021| Gitlab - The style blog works! Yay! | 👩‍ 💻|
+
