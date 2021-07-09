@@ -95,5 +95,6 @@ p.s: Sometimes I don't consider weekends, and it's okay
 |Day 88|Jun 30, 2021| Gitlab - Tried ajust the style of my blog (and I failed miserably) | 👩‍ 💻|
 |Day 89|Jul 01, 2021| Gitlab - The style blog works! Yay! | 👩‍ 💻|
 |Day 90|Jul 07, 2021| Gitlab - Working on my blog! | 👩‍ 💻|
+|Day 91|Jul 08, 2021| Study about Data! | 👩‍ 💻|
 
 
