@@ -99,6 +99,8 @@ p.s: Sometimes I don't consider weekends, and it's okay
 |Day 92|Jul 09, 2021| Study about Data Lake | 👩‍ 💻|
 |Day 93|Jul 12, 2021| Study about Data Warehouse and Data Pipeline | 👩‍ 💻|
 |Day 94|Jul 13, 2021| Study about Middleware | 👩‍ 💻|
+|Day 95|Jul 14, 2021| S3 - Study about web store | 👩‍ 💻|
+
 
 
 
