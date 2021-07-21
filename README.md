@@ -102,6 +102,7 @@ p.s: Sometimes I don't consider weekends, and it's okay
 |Day 95|Jul 14, 2021| S3 - Study about web store | 👩‍ 💻|
 |Day 96|Jul 15, 2021| Understanding the Data Pipeline in practice | 👩‍ 💻|
 |Day 97|Jul 19, 2021| Study about ESB | 👩‍ 💻|
+|Day 98|Jul 21, 2021| Study about Data Quality| 👩‍ 💻|
 
 
 
