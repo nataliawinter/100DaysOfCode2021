@@ -103,6 +103,7 @@ p.s: Sometimes I don't consider weekends, and it's okay
 |Day 96|Jul 15, 2021| Understanding the Data Pipeline in practice | 👩‍ 💻|
 |Day 97|Jul 19, 2021| Study about ESB | 👩‍ 💻|
 |Day 98|Jul 21, 2021| Study about Data Quality| 👩‍ 💻|
+|Day 99|Jul 28, 2021| Study about CI/CD | 👩‍ 💻|
 
 
 
