@@ -1,4 +1,4 @@
-# My #100DaysOfCode Journey :woman_technologist: 
+# My first #100DaysOfCode Journey :woman_technologist: 
 
 p.s: Sometimes I don't consider weekends, and it's okay 
 
