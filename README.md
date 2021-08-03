@@ -105,12 +105,10 @@ p.s: Sometimes I don't consider weekends, and it's okay
 |Day 98|Jul 21, 2021| Study about Data Quality| 👩‍ 💻|
 |Day 99|Jul 28, 2021| Study about CI/CD | 👩‍ 💻|
 |Day 100|Aug 02, 2021| Azure Fundamentals - Starting the course| [Alura Course - Azure fundamentals](https://cursos.alura.com.br/course/Microsoft-az-900-parte-1-azure-fundamentals)|
-.
-.
-.
-.
-.
-.
+
+
+
+
 And That's all folks!!
 
 
